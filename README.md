@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: rebecca-cunha@hotmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+
 
 
 
