@@ -1,4 +1,4 @@
-<img src="reb.svg" alt="Rebecca" />
+<img src="reb.svg" width = "15%" alt="Rebecca" />
 
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: rebecca-cunha@hotmail.com
