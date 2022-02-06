@@ -1,9 +1,7 @@
 <img src="reb.svg" width = "15%" alt="Rebecca" />
 
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: rebecca-cunha@hotmail.com
-- 😄 Pronouns: she/her
-
+- ☕ I’m currently learning Java;
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/acceberc/">LinkedIn</a> or <a href="mailto:rebecca-cunha@hotmail.com">E-mail</a>
 
 
 
@@ -14,8 +12,7 @@
 </div>
   
 <div> 
-  <a href="www.linkedin.com/in/acceberc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
   ![Snake animation](https://github.com/acceberc/acceberc/blob/output/github-contribution-grid-snake.svg)
   
 </div>
