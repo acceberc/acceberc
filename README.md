@@ -1,4 +1,4 @@
-<img src="logo.svg" width="30%" alt="Rebecca Cruz" />
+<img src="rebecca.svg" width="30%" alt="Rebecca Cruz" />
 
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: rebecca-cunha@hotmail.com
