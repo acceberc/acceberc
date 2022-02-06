@@ -1,4 +1,4 @@
-### Hi there, I'm Rebecca 👋
+<img src="logo.svg" width="30%" alt="Rebecca Cruz" />
 
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: rebecca-cunha@hotmail.com
