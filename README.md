@@ -1,5 +1,7 @@
+<div align="center">
 <img src="reb.svg" width = "15%" alt="Rebecca" />
-
+</div>
+  
 - 💻 I’m currently studying at Generation Brasil's on Full Stack Web development bootcamp;
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/acceberc/">LinkedIn</a> or <a href="mailto:rebecca-cunha@hotmail.com">E-mail</a>
 
