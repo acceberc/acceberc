@@ -2,7 +2,6 @@
 <img src="reb.svg" width = "15%" alt="Rebecca" />
 </div>
   
-- 💻 Full Stack Web Developer;
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/acceberc/">LinkedIn</a> or <a href="mailto:rebecca-cunha@hotmail.com">E-mail</a>
 
 
